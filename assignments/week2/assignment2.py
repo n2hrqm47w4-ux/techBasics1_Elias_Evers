@@ -1,4 +1,4 @@
-# Welcome to my “rythm guessing challange” for music people.. The idea, the music “theory” amd most of the code is by me.
+# Welcome to my “rhythm guessing challenge” for music people.. The idea, the music “theory” and most of the code is by me.
 # I needed help with the random-function, the margin logic and twice debugging because I did not understand
 # what the console wanted to tell me. This was then done by Gemini AI – I hope that's fine:)
 
